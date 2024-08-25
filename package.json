@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@sparticuz/chromium": "^92.0.4512.0",
+    "@sparticuz/chromium": "^92.0.0",
     "chrome-aws-lambda": "^10.1.0",
     "express": "^4.19.2",
     "next": "14.2.6",
