@@ -69,7 +69,7 @@ export default function Home() {
           <p>${bfgPriceData.myTokenSellPrice}</p>
         </div>
       </div>
-      <h2 className='flex justify-center items-center'>🥂</h2>
+      
     </div>
   );
 }
